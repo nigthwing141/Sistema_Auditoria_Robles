@@ -6,7 +6,7 @@ Plataforma web para digitalizar la gestión, ejecución y seguimiento de auditor
 
 ## Integrantes (Grupo 20)
 * **José Rigoberto Guerra Rodríguez** (Carnet: 25-1083-2022)
-* **Christian Osvaldo Henríquez Escalante** (Carnet: 250-818-2022)
+* **Christian Osvaldo Henríquez Escalante** (Carnet: 25-818-2022)
 * **Bryan Eduardo Jiménez Mendoza** (Carnet: 25-2055-2022)
 * **Axel Antonio Martínez Portillo** (Carnet: 25-2318-2022)
 * **Elmer Josué Menéndez Reinosa** (Carnet: 25-1660-2022)
